@@ -1,0 +1,4 @@
+Lucía;Navarro Gil;Sevilla;9
+Elena;Martínez Ruiz;Madrid;19
+David;Sánchez López;Valencia;25
+Carlos;Gómez Pérez;Sevilla;31
