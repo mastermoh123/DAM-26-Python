@@ -36,3 +36,4 @@ def generar_tira_openshell(ruta_imagen="1f.png", salida="star_force_3_estados.pn
 
 if __name__ == "__main__":
     generar_tira_openshell()
+    input()
